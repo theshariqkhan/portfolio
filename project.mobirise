@@ -675,7 +675,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Shariq Khan.<br>Smart work over Hard Work!<br>This Website is made using MobiRise"
+          "text": "Copyright (c) 2017 Shariq Khan.<br>Smart work over Hard Work!<br><br>"
         },
         {
           "_styles": {
@@ -723,7 +723,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#00a885!important"
             }
           },
           "_tags": [
