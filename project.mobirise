@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#00a885",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -52,7 +52,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-8",
@@ -60,22 +60,22 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/table.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/preview.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0",
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "WELCOME !&nbsp;",
+          "title": "WELCOME&nbsp;",
           "text": "<b>My name is Shariq Khan <br>I am a 16 year old Programmer and currently working as a Freelancer</b>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box5-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>That sounds Great ! Show me more</a>"
         },
@@ -405,7 +405,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -462,7 +462,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">View in Gallery<br></a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/welcome-screen-one-600x360.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -472,9 +472,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Selfie Competition App",
-          "subtitle4": "Around Completion phase",
-          "caption4": "This is my latest project . A 'Selfie Competition App'.<br>Users can upload their selfies and compete with other users to find out who is more good looking , and get popular !<br>This is also a web based app except it required really hard work and extra hours , I will roll it out in the July of 2017",
+          "title4": "Auto Pup",
+          "subtitle4": "Live on Play Store",
+          "caption4": "Being Obsessed with cute puppies , I decided to make an app that changes the smartphone's Wallpaper automatically every 10 seconds with a Cute Little Puppy Wallpaper !",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">View in Gallery</a>",
           "media5": {
             "image": {
@@ -675,7 +675,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Shariq Khan.<br>Smart work over Hard Work!<br><br>"
+          "text": "Copyright (c) 2017 Shariq Khan.<br>Smart work over Hard Work!<br>This Website is made using MobiRise"
         },
         {
           "_styles": {
@@ -686,13 +686,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1.2rem"
@@ -713,7 +713,7 @@
               "background": "#00a885"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -735,7 +735,7 @@
             "bgColor": "#00a885",
             "fontSize": "1.2",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -764,7 +764,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.theshariqkhan.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TheShariqKhan</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-8\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-7\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-m\">CONNECT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-e\">ANDROID GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-h\">ANDROID APPS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/developer?id=TheShariqKhan\" target=\"_blank\">PLAY STORE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-8\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-7\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-m\">CONNECT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-e\">ANDROID GAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box1-h\">ANDROID APPS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/developer?id=TheShariqKhan\" target=\"_blank\">PLAY STORE</a></li>"
         }
       ]
     }
